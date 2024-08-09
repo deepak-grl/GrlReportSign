@@ -1,0 +1,10 @@
+D:\APPS\GrlReportSign\bin\Debug\netstandard2.0\GrlReportSign.deps.json
+D:\APPS\GrlReportSign\bin\Debug\netstandard2.0\GrlReportSign.dll
+D:\APPS\GrlReportSign\bin\Debug\netstandard2.0\GrlReportSign.pdb
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.csproj.AssemblyReference.cache
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.GeneratedMSBuildEditorConfig.editorconfig
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.AssemblyInfoInputs.cache
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.AssemblyInfo.cs
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.csproj.CoreCompileInputs.cache
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.dll
+D:\APPS\GrlReportSign\obj\Debug\netstandard2.0\GrlReportSign.pdb
